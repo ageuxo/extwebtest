@@ -8,6 +8,7 @@ html {
 }
 #master {
 	margin: auto;
+	max-width: 80%;
 }
 
 * {
@@ -15,5 +16,5 @@ html {
 }
 
 .contenttext {
-	max-width: 80%;
+	
 }
