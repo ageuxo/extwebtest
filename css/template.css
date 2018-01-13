@@ -1,8 +1,12 @@
 body {
-	background-color: gray;
+	background-color: #bfbfbf;
 	margin: 0px 20px;
 }
 
 html {
 	background-color: #595959;
+}
+
+* {
+	overflow: scroll;
 }
