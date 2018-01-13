@@ -6,10 +6,12 @@ body {
 html {
 	background-color: #595959;
 }
+div {
+	margin: auto;
+}
 
 * {
 	overflow: auto;
-	text-align: center;
 }
 
 .contenttext {
