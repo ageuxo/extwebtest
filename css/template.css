@@ -8,5 +8,9 @@ html {
 }
 
 * {
-	overflow: scroll;
+	overflow: auto;
+}
+
+.contenttext {
+	max-width: 80%;
 }
