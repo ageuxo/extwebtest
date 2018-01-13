@@ -1,0 +1,38 @@
+div {
+	width:80px;
+	height:80px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	position:absolute;
+}
+
+#one {
+	background:red;
+	width:160px;
+}
+#two {
+	background:blue;
+	height:160px;
+	left:160px;
+}
+#three {
+	background:green;
+	height:160px;
+	top:80px;
+}
+#four {
+	background:black;
+	top:80px;
+	left:80px;
+}
+#five {
+	background:yellow;
+	width:160px;
+	top:160px;
+	left:80px;
+}
+#master {
+	margin:180px;
+}
